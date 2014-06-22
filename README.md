@@ -1,5 +1,5 @@
-tamil-student-projects
-======================
+Student Projects in Tamil Computing
+===================================
 
 This project is coordinated by [International Forum for Information Technology in Tamil (INFITT)](http://home.infitt.org).
 
