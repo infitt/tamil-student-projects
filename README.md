@@ -36,11 +36,11 @@ List of approved open source license
 
 Following are the list of approved open source licenses that may be applicable for student projects.  If a team needs to use a license other than those given below, they may write to INFITT coordinator for evaluating the requirement.
 
-  GNU General Public License
-  GNU Lesser General Public License
-  MIT License
-  Apache License
-  BSD License
+* GNU General Public License
+* GNU Lesser General Public License
+* MIT License
+* Apache License
+* BSD License
   
   
   
