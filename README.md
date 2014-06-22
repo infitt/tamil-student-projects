@@ -20,8 +20,9 @@ Interested students may choose from the list of available projects, or may propo
 
 Students will not be allowed to choose the same topic from already completed projects, unless they can provide a compelling reason why a redevelopment is necessary.  Multiple student teams may, however, choose the same project title in the same academic year, and try competing development.  Number of simultaneous teams trying a specific project may be limited at the INFITT coordinator's discretion.
 
-Teams developing the software will hold copyright of their developments themselves or assign copyright to INFITT at their discretion.  Assigning copyright to INFITT is recommended in large projects where multiple teams have to work on it over the years.
+A project which is in active development by a volunteer community may not be taken up as student project.  However, some component of such existing project may be isolated and approved for student projects.  In such cases, an existing contributor for the project may agree to act as volunteer for the student project team.
 
+Teams developing the software will hold copyright of their developments themselves or assign copyright to INFITT at their discretion.  Assigning copyright to INFITT is recommended in large projects where multiple teams have to work on it over the years.
 
 Project closure
 ---------------
