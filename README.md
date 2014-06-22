@@ -31,8 +31,8 @@ All student projects will need to be closed properly as per specific guidelines 
 
 All software development projects shall be released via an open source license approved by INFITT, and should be made available through github repository under INFITT.  Students must checkin the project closure document in prescribed template together with the code.
 
-List of approved open source license
--------------------------------------
+List of approved open source licenses
+--------------------------------------
 
 Following are the list of approved open source licenses that may be applicable for student projects.  If a team needs to use a license other than those given below, they may write to INFITT coordinator for evaluating the requirement.
 
